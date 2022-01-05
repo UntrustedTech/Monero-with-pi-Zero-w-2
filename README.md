@@ -13,6 +13,7 @@ Recently I have found myself very intrested in crypto currency, mostly on Monero
 
 - Micro SD card 32gb or more ( $5 - 10 )
 [Amazon](https://www.amazon.com/dp/B07K81Z6DF/ref=cm_sw_r_cp_api_glt_fabc_3DJ9AZDCQW52NWA4YNZC)
+
 - Micro USB to female USB ( $5 - 15 )
 [Amazon](https://www.amazon.com/dp/B00N9S9Z0G/ref=cm_sw_r_cp_api_glt_fabc_HJVME91D0SS6RBCV1Y5P?_encoding=UTF8&psc=1)
 
