@@ -8,10 +8,15 @@ Recently I have found myself very intrested in crypto currency, mostly on Monero
 - Raspberry pi zero w 2 ( $15 ) 
 [MakeBright](https://makerbright.com/raspberry-pi-zero-2-w-.html), [ChicagoDeals](https://chicagodist.com/products/raspberry-pi-zero-2?variant=39620996923471), [Pishop](https://www.pishop.us/product/raberry-pi-zero-2-w/), [Adafruit](https://www.adafruit.com/product/5291), [Micro_Center](https://www.microcenter.com/search/search_results.aspx?Ntt=Raspberry+Pi+Zero+2+W), [Last_Resort](https://www.amazon.com/dp/B09LH5SBPS/ref=cm_sw_r_cp_api_glt_fabc_AJ5ZC8AASWMYPV4DDD1F)
 
-- Raspberry pi zero w 2 ( $15 )
 - Mini HDMI to HDMI adapter ( $5 )
-- Micro SD card 16gb or more ( $5 - 10 )
+[Amazon](https://www.amazon.com/dp/B07GGG5JWS/ref=cm_sw_r_cp_api_glt_fabc_QNPST05D0XE0DXW39N4E?_encoding=UTF8&psc=1), [MicroCenter](https://www.microcenter.com/search/search_results.aspx?N=&cat=&ntt=Mini+hdmi+to+hdmi)
+
+- Micro SD card 32gb or more ( $5 - 10 )
+[Amazon](https://www.amazon.com/dp/B07K81Z6DF/ref=cm_sw_r_cp_api_glt_fabc_3DJ9AZDCQW52NWA4YNZC)
 - Micro USB to female USB ( $5 - 15 )
+[Amazon](https://www.amazon.com/dp/B00N9S9Z0G/ref=cm_sw_r_cp_api_glt_fabc_HJVME91D0SS6RBCV1Y5P?_encoding=UTF8&psc=1)
+
 - A PC or Mac to access files
 
 As of currently the method that I am using I could not get SHH working at first so a capturecard or a tv/monitor will work just for the set up process in the beggining of this project ( it wont be needed later on ).
+
