@@ -27,10 +27,9 @@ The way I did all this was throught a cheap chinese capturecard that I found in 
 
 You will need OBS or some type of recorder, when you connect the capturecard it will show up as a camera source so just add that and connect the micro HDMI to the pi and get a HDMI cable and connect it and it shoudl show up once we install the os and do everything else, I will show how i did it so dont worry.
 
-## lets Set things up
+## A little note
 
-Ok so we just need a few more things, well just 2 files depending what platform you are doing this.
+I am also currently working on finding a method to do it on a regular pi zero w and ofc all of this is for learning perposes!
 
-- The Raspberry Pi Official software []() (or a way to to put an img file in a sd card)
 
-- (Raspian_Lite_64x)[] version not Raspian_Lite_32x
+
