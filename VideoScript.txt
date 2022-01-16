@@ -1,0 +1,32 @@
+Mining Monero with a Raspberry pi zero 2 w
+Showing people how to use a rpiz2 to practice and learn about mining crypto.
+
+
+Script
+
+		- Start
+				- What is Crypto? This isn’t a fairly new concept since crypto has been around since 2009 which all started with the all famous BITCOIN created by maybe developer Satoshi Nakamoto but back to what’s important . . .
+
+What is Crypto / Cryptocurrency to be exact? According to google its a collection of binary data which is designed to work as a medium of exchange, which in simpler terms for ape minded folk . . . Certain amount of data equals to an amount of digital currency that can be used as online payments sooooooooooooooo data + equals worth + 
+
+But why you need to know this, obviously watching this video you have an idea already to what crypto currency is, well i mostly just wanted to get this out of the way,
+I wont be explaining how mining pools or what blockchains are so ill leave a few articles and videos explaining what exactly they are, if you want to go straight into it here are the time stamps and lets get started !!!!!
+
+				- What is Crypto? “Crypto Currency is like any other type of currency out, but instead of being tracked by individuals, Everyone is in charge of the ledger” ( -3Blue1Brown ) But what does this even mean, Crypto is a public currency that can be traded, tracked, and depending on the Crypto currency of your choosing, you can also MINE Crypto. 
+
+And what’s what i will be showing you today, ill be teaching you how to use a computer well in this case a $15 (at msrp ofc ) micro computer called Raspberry Pi Zero W 2 to MINE a crypto currency called Monero XMR which I know how it sounds in Spanish so lets leave it like that, this currency has been around since 2017 and its currency price as of this recording is 225.45 USD per 1 Monero coin. its a fairly new version of the Raspberry pi zero w which this method cannot be used since the gen 1 of pi zeros ( which there are two versions of it ) does not support x64 operating systems. 
+
+I fully recorded this whole process as a written guide in my GitHub page where i share every step as simple but also as in depth as possible to ensure no confusion or problems in the process so here are the time stamps again and lets get started.
+
+
+
+
+	- Preparation
+					- But before we do get started we need a few things
+- Obviously we need the most important part which is a raspberry pi zero w 2, but where can you get one, well my simple ape minded child since its the second generation of the raspberry pi zero boards and its a fairly new board it’s hard to get these boards as of this recording because of this chip shortage and also 3rd party’s getting them and selling them above msrp, your best luck is to go to you’re nearest micro center and get it there or get them online through these providers where i can say for sure can be trusted since i use them to buy my things for projects, just beware these stores, think of them as you’re last resort!
+
+- Once you get the board its best you get a simple RaspberryPi Zero started kit along with it because you will need to do this thought a screen, you cannot ssh into the pi because technically since rpiz2 does support x64 version of raspian lite which is the Linux operating system that we will be using for this project, it does not have an official version that can be used one a rpiz2 unless we change the name of a file which will be shown later on.
+
+- Now that you have the most important things we need to grab the software to do flash the x64 raspian lite operating system onto our micro sd card. We will be using the official raspberry pi imager which can be used on windows 10 or 11 and in Linux, and for the apple users you can use balena etcher which can also be used in windows and Linux, i will be showing both methods to flash the sd card.
+
+Now we basically have everything that we need, all that is needed now to follow the steps on this video and you can start mining crypto on your own for the low low cost of 1 usd a year more to you’re electric bill.  So lets get started 
