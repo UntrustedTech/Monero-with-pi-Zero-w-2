@@ -31,5 +31,6 @@ You will need OBS or some type of recorder, when you connect the capturecard it 
 
 I am also currently working on finding a method to do it on a regular pi zero w and ofc all of this is for learning perposes!
 
+TAKING A BREAK FROM THIS PROJECT I JUST MOVED LEAVE ME ALONE
 
 
